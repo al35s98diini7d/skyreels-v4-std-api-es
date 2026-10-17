@@ -1,0 +1,15 @@
+{
+  "id": "skyreels-v4-std",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T16:55:19Z",
+  "prices": {
+    "default": {
+      "list": 0.088,
+      "effective": 0.088
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.088 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/skyreels-v4"
+}
